@@ -1,0 +1,11 @@
+:root {
+    --primary: #d2d2d2;
+}
+
+h1 {
+    color: var(--primary);
+    display: block;
+    background: blue;
+    height: 100px;
+    width: 200px;
+}
